@@ -1,0 +1,188 @@
+[
+    {
+      "id": "FAQ-001",
+      "question": "Can IntelliPulse Pro detect a heart attack?",
+      "answer": "IntelliPulse Pro cannot detect or diagnose a heart attack. It can detect AFib but not cardiac emergencies. Call emergency services immediately if symptoms occur.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-002",
+      "question": "How accurate is the ECG feature?",
+      "answer": "The ECG feature detects AFib with high sensitivity and specificity but is not equivalent to hospital ECG. Always consult a doctor.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-003",
+      "question": "What is the AI Health Score?",
+      "answer": "AI Health Score is a 0–100 score combining HRV, sleep, SpO2 and activity to indicate overall health readiness.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-004",
+      "question": "What is HRV?",
+      "answer": "Heart Rate Variability measures variation between heartbeats. Higher HRV indicates better health and recovery.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-005",
+      "question": "What does SpO2 mean?",
+      "answer": "SpO2 measures blood oxygen levels. Normal range is 95–100%. Lower levels may require medical attention.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-006",
+      "question": "How does glucose tracking work?",
+      "answer": "It provides trend-based glucose insights using sensors but is not a replacement for medical glucose measurement devices.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-007",
+      "question": "Can I use it with a pacemaker?",
+      "answer": "ECG feature should not be used with pacemakers. Other features are safe to use.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-008",
+      "question": "What is stress alert?",
+      "answer": "Stress alert triggers when HRV drops significantly, indicating increased stress levels.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-009",
+      "question": "Can it detect sleep apnea?",
+      "answer": "It can screen for sleep apnea but cannot diagnose it. Consult a specialist for confirmation.",
+      "category": "Health Monitoring"
+    },
+    {
+      "id": "FAQ-010",
+      "question": "Is IntelliPulse Pro medically certified?",
+      "answer": "Yes, it is CDSCO certified as a monitoring device but not for diagnosis.",
+      "category": "Health Monitoring"
+    },
+  
+    {
+      "id": "FAQ-011",
+      "question": "How do I set up IntelliPulse Pro?",
+      "answer": "Charge the device, install the app, connect via Bluetooth, and complete profile setup.",
+      "category": "Device Setup"
+    },
+    {
+      "id": "FAQ-012",
+      "question": "Which phones are compatible?",
+      "answer": "Compatible with Android 9+ and iOS 14+ devices.",
+      "category": "Device Setup"
+    },
+    {
+      "id": "FAQ-013",
+      "question": "How to change language to Hindi?",
+      "answer": "Go to settings → language → select Hindi. The watch will sync automatically.",
+      "category": "Device Setup"
+    },
+    {
+      "id": "FAQ-014",
+      "question": "How to share data with doctor?",
+      "answer": "Export health reports as PDF or share via secure link from the app.",
+      "category": "Device Setup"
+    },
+    {
+      "id": "FAQ-015",
+      "question": "How to calibrate blood pressure?",
+      "answer": "Use a standard BP monitor and calibrate via settings every 14 days.",
+      "category": "Device Setup"
+    },
+  
+    {
+      "id": "FAQ-016",
+      "question": "Watch not syncing?",
+      "answer": "Check Bluetooth, restart app, and reconnect device.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-017",
+      "question": "BP readings inconsistent?",
+      "answer": "Ensure proper calibration and correct positioning during measurement.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-018",
+      "question": "Heart rate reading incorrect?",
+      "answer": "Ensure proper fit and avoid movement during measurement.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-019",
+      "question": "SpO2 error?",
+      "answer": "Warm hands, tighten band, and remain still during measurement.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-020",
+      "question": "Battery draining fast?",
+      "answer": "Disable GPS, reduce display usage, and update software.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-021",
+      "question": "Screen frozen?",
+      "answer": "Restart device or perform factory reset.",
+      "category": "Troubleshooting"
+    },
+    {
+      "id": "FAQ-022",
+      "question": "Wrong time on watch?",
+      "answer": "Sync with phone and enable automatic time settings.",
+      "category": "Troubleshooting"
+    },
+  
+    {
+      "id": "FAQ-023",
+      "question": "How is data protected?",
+      "answer": "Data is encrypted and stored securely following privacy regulations.",
+      "category": "Privacy"
+    },
+    {
+      "id": "FAQ-024",
+      "question": "Can family monitor health?",
+      "answer": "Yes, family care feature allows limited shared access.",
+      "category": "Privacy"
+    },
+  
+    {
+      "id": "FAQ-025",
+      "question": "Warranty details?",
+      "answer": "12-month warranty with optional extended coverage.",
+      "category": "Warranty"
+    },
+    {
+      "id": "FAQ-026",
+      "question": "How to contact support?",
+      "answer": "Call helpline, email support, or use in-app chat.",
+      "category": "Warranty"
+    },
+    {
+      "id": "FAQ-027",
+      "question": "How to claim warranty?",
+      "answer": "Submit request online or via support center with proof.",
+      "category": "Warranty"
+    },
+  
+    {
+      "id": "FAQ-028",
+      "question": "Comparison with Apple Watch?",
+      "answer": "Offers glucose trends and lower price but fewer apps.",
+      "category": "Comparison"
+    },
+    {
+      "id": "FAQ-029",
+      "question": "Comparison with Samsung Watch?",
+      "answer": "Includes glucose tracking and India-focused features.",
+      "category": "Comparison"
+    },
+  
+    {
+      "id": "FAQ-030",
+      "question": "What can the FAQ bot do?",
+      "answer": "It answers queries using knowledge base and does not provide medical diagnosis.",
+      "category": "FAQ Bot"
+    }
+  ]
